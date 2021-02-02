@@ -1,0 +1,12 @@
+body{
+   font-family: tahoma;
+   font-size: 25px;
+}
+div.box{
+   border: 5px solid red;
+   width: 450px;
+   height: 450px;
+   overflow: auto;
+   position: relative;
+   left: 100px;
+}
